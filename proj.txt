@@ -1,0 +1,4 @@
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Warrior</StartupObject>
+  </PropertyGroup>
